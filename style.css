@@ -1,0 +1,24 @@
+h1{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif color system-ui ; text-transform: uppercase;text-align: center;}
+li{ font-weight:bold;
+  font-family: Arial, Helvetica, sans-serif;
+
+color: rgb(23, 23, 78);
+color: brown;
+}
+#bg-orange{background-color: rgb(255, 94, 20);}
+.done {color: rgb(0, 214, 18);
+text-decoration: line-through;
+}
+h2{color: rgb(174, 210, 30);
+text-transform: uppercase;
+text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+p{
+  font-size: 20px;
+  /*background-repeat: no-repeat;
+background-image: url(./news-3.jpg);*/
+background-color: blueviolet;
+padding: 1rem;
+border-radius: 15px;
+margin: 5px
+}
