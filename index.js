@@ -39,6 +39,36 @@ for(let i=0;i<classrome.length;i++){
 
     console.log("help"+classrome[i]+"is present!");
     }
+const age = prompt("Enter your age:");
+if (age>18) {
+    console.log("You are adult");
+
+} else if(age<18) {
+    console.log("You are minor");
+
+}else{
+    console.log("Barely adult");
+
+}
+function add(x,y){
+    return x+y;
+
+}
+console.log( "fff ",dd(5,555));
+const arr =[false,true,false,false,false,false,true];
+function howManyTrueFalse(tab){
+    let f=0;
+    let t=0;
+    for(let i = 0; i<tab.length; i++){
+        if(tab[i] === true){
+            t++;
+        }else{
+            f++;
+        }
+    }
+    return {true: t, false: f};
+}
+
 
 
 
